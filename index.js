@@ -1,1 +1,1 @@
-console.log("welcome to javascript hello scm")
+console.log("welcome to javascript hello h scm")
